@@ -1,0 +1,9 @@
+[requires]
+minimal_example/0.1
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout
